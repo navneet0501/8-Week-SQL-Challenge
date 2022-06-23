@@ -1,10 +1,5 @@
 # 🍜 Case Study #1: Danny's Diner
 
-## Solution
-
-View the complete syntax [here](https://github.com/navneet0501/8-Week-SQL-Challenge/blob/main/Danny's_Diner_Case_Study.sql).
-
-***
 
 ### 1. What is the total amount each customer spent at the restaurant?
 
